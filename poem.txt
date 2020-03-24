@@ -11,5 +11,7 @@ white
 black
 brown
 unicorn
+pink
+indigo
 
 these are rainbow colors.
