@@ -2,6 +2,8 @@
 BY sv sai kiran
 */
 
+// Qtn: Prime Factorization - Have the user enter a number and find all Prime Factors (if there are any) and display them.
+
 #include<bits/stdc++.h>
 #include<iostream>
 using namespace std;
